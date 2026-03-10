@@ -23,7 +23,7 @@
 - Clone the repository:
 
 ```bash
-git clone https://github.com/dmmscript/QuickChat.git
+git clone https://github.com/dm-moro/QuickChat.git
 ```
 
 - Install dependencies:
